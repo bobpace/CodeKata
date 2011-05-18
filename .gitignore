@@ -1,0 +1,15 @@
+obj/
+bin/
+*.chm
+_[Rr]e[Ss]harper.*
+*.csproj[1-9]*
+*.csproj.user
+*.[Rr]e[Ss]harper.user
+*.[Rr]e[Ss]harper
+*.suo
+*.cache
+*~
+*.sql
+*.stackdump
+*.swp
+*.swo
