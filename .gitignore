@@ -1,5 +1,6 @@
 obj/
 bin/
+packages/
 *.chm
 _[Rr]e[Ss]harper.*
 *.csproj[1-9]*
